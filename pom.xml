@@ -27,6 +27,12 @@
         <relativePath/>
     </parent>
 
+    <properties>
+        <sonar.projectKey>Mahyar1982_sling-adapter-annotations</sonar.projectKey>
+        <sonar.organization>mahyar1982</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
     <artifactId>adapter-annotations</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <name>Apache Sling Adapter Annotations (JSON)</name>
